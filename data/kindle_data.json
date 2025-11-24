@@ -398,10 +398,20 @@
     "2025-11-15",
     "2025-11-16",
     "2025-11-17",
-    "2025-11-18"
+    "2025-11-18",
+    "2025-11-19",
+    "2025-11-20",
+    "2025-11-21",
+    "2025-11-22",
+    "2025-11-23"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 21,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-11-23T08:00:00.000Z",
+    "start": "2025-11-03T00:00:00.000Z",
+    "end": "2025-11-23T00:00:00.000Z",
+    "ttl": 1763950274
   },
   "longest_daily_streak": {
     "duration": 178,
@@ -411,12 +421,12 @@
     "end": "2023-09-14T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 7,
+    "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-18T08:00:00.000Z",
+    "utcEndTime": "2025-11-23T08:00:00.000Z",
     "start": "2025-10-11T00:00:00.000Z",
-    "end": "2025-11-18T00:00:00.000Z",
-    "ttl": 1763864589
+    "end": "2025-11-23T00:00:00.000Z",
+    "ttl": 1763950274
   },
   "longest_weekly_streak": {
     "duration": 30,
@@ -483,16 +493,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 39,
+    "daysLeftInCurrentChallenge": 38,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_BronzeReader_2ad3545a-52d9-3c3c-9fdd-c935e4a94744.png",
-        "quantity": 1,
-        "title": "Bronze Reader",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
+        "quantity": 2,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
